@@ -12,4 +12,9 @@
         android:title="Grid View"
         app:showAsAction="never"/>
 
+    <item
+        android:id="@+id/action_card"
+        android:title="Card View"
+        app:showAsAction="never"/>
+
 </menu>
